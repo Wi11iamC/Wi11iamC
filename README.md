@@ -1,4 +1,7 @@
-### Hi there 👋
+## Hello 👋 there! 
+
+My name is William and I am studying Electrical and Computer Engineering at Rutgers University.
+
 
 <!--
 **Wi11iamC/Wi11iamC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
