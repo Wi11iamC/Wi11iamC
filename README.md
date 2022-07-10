@@ -1,6 +1,6 @@
 ## Hello 👋 there! 
 
-My name is William and I am studying Electrical and Computer Engineering at Rutgers University.
+My name is William and I am studying Electrical and Computer Engineering.
 
 
 <!--
